@@ -6,4 +6,16 @@
 
 body {
     background-color: #201313;
+    color: #FAF9F9;
+}
+
+.giantRobot {
+    /* border: 1px solid white; */
+    margin: 50px 370px;
+}
+
+.giant {
+    font-size: 3rem;
+    font-weight: 700;
+    padding: 0 150px;
 }
